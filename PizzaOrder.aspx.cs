@@ -24,7 +24,7 @@ namespace PapaBobsPizza
 
             if (smallButton.Checked)
             {
-                total = 5;
+                total = 4;
             }
             else if (mediumButton.Checked)
             {
